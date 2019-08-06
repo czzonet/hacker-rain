@@ -39,7 +39,7 @@ node_modules
 yarn.lock
 ```
 
-tsconfig.json
+tsconfig.json 文件内容
 --
 
 一些编译选项，没有太多特别。不要过多，自己定义，自己用的舒适。
